@@ -76,8 +76,8 @@ This application provides a complete pipeline for document-to-voice conversion:
 
 **1. Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/pdf-voice-clone.git
-cd pdf-voice-clone
+git clone https://github.com/NadeemAhmad3/Voice_Clonning.git
+cd Voice_Clonning
 ```
 
 **2. Create Virtual Environment (Recommended)**
